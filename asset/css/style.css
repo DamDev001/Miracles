@@ -215,15 +215,8 @@ footer .container .copyright {
     color: black;
     font-weight: bold;
   }
-  .miracle-container #hero .container .smile {
-    display: block;
-    margin-top: 1rem;
-  }
-  .miracle-container #hero .container .smile img {
-    width: 100%;
-  }
   .miracle-container #hero .container .buttom-hero-content {
-    display: none;
+    display: block;
   }
   .miracle-container #about {
     padding-left: 0;
